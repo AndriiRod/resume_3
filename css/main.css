@@ -1,0 +1,177 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+body
+{
+    background-color: #E5E5E5;
+}
+
+.main 
+{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.sidebar 
+{
+    padding-top: 40px;
+    width: 370px;
+    background-color: #1E2939;
+}
+
+.img 
+{
+    width: 370px;
+}
+.sidebar-header
+{
+    margin-bottom: 10px;
+    margin-top: 50px;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #FFFFFF;
+}
+.contacts, .tech-skills, .soft-skills
+{
+    margin-left: 40px;
+}
+.info
+{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+.info a
+{
+    opacity: 0.5;
+    font-weight: 400;
+    margin-left: 10px;
+    color: #FFFFFF;
+}
+.list
+{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FB6D3A;
+    margin-left: 19px;
+}
+.list span
+{
+    font-weight: 400;
+    color: #FFFFFF;
+}
+.main-content
+{
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    background-color: #FFFFFF;
+    padding:102px 217px 107px 88px;
+}
+
+.sub-header
+{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
+.header-name
+{
+    margin-top: 19px;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000000;
+}
+.header-title
+{
+    margin-top: 24px;
+    width: 400px;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.main-headers
+{
+    margin-top: 45px;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+}
+.list-projects
+{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+}
+.list-projects li
+{
+    padding-left: 13px;
+    margin-left: 17px;
+    margin-top: 8px;
+}
+.sep-styles
+{
+    color: #595959;
+    font-weight: 400;
+}
+.list-projects a
+{
+    color: #595959;
+    font-weight: 400;
+    text-decoration: none;
+}
+.header-chapter
+{
+    margin-top: 15px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+}
+.orange-span
+{
+    color: #FB6D3A;
+}
+.sub_info
+{
+    margin-top: 11px;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+}
+.trait-span
+{
+    color: #000000;
+}
+.list-work
+{
+    margin-top: 8px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.list-work li
+{
+    padding-left: 10px;
+    margin-left: 16px;
+}
+.speciality
+{
+    margin-top: 11px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color:#000000;
+}
